@@ -1,0 +1,44 @@
+/*
+Font:		Rajdhani
+URL:		https://fonts.google.com/specimen/Rajdhani
+Foundry:	Indian Type Foundry
+Foundry:	https://www.indiantypefoundry.com/
+About:		https://github.com/itfoundry/rajdhani
+License:	Open Font Licence
+License:	http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+*/
+
+@font-face {
+	font-family: 'Rajdhani';
+	src: url('/fonts/get_font?font=rajdhani-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Rajdhani';
+	src: url('/fonts/get_font?font=rajdhani-light.ttf') format('truetype');
+	font-weight: 300; /* Light */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Rajdhani';
+	src: url('/fonts/get_font?font=rajdhani-medium.ttf') format('truetype');
+	font-weight: 500; /* Medium */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Rajdhani';
+	src: url('/fonts/get_font?font=rajdhani-bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Rajdhani';
+	src: url('/fonts/get_font?font=rajdhani-semibold.ttf') format('truetype');
+	font-weight: 600; /* Semi Bold */
+	font-style: normal;
+}

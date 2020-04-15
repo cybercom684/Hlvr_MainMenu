@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'raju';
+	src: url('/fonts/get_font?font=raju-regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-light';
+	src: url('/fonts/get_font?font=raju-light.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-bold';
+	src: url('/fonts/get_font?font=raju-bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-semibold';
+	src: url('/fonts/get_font?font=raju-semibold.otf') format('opentype');
+	font-weight: semi-bold;
+}
+
+@font-face {
+	font-family: 'raju-oblique';
+	src: url('/fonts/get_font?font=raju-regular-oblique.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-light-oblique';
+	src: url('/fonts/get_font?font=raju-light-oblique.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-bold-oblique';
+	src: url('/fonts/get_font?font=raju-bold-oblique.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'raju-semibold-oblique';
+	src: url('/fonts/get_font?font=raju-semibold-oblique.otf') format('opentype');
+}
